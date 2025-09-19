@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: sharvari2004/go-we-app
   pullPolicy: IfNotPresent 
-  tag: "17856318241"
+  tag: "17856770553"
 
 ingress:
   enabled: false
